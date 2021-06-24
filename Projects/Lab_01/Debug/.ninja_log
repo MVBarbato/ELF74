@@ -1,0 +1,12 @@
+# ninja log v5
+1	348	6462709866482109	C:/Users/mathe/OneDrive/Documentos/2021_EngEletronica/ELF74_Sistemas_Embarcados/TM4C1294_Bare_IAR9-main/Projects/Lab_01/Debug/Obj/startup_TM4C1294.o	8386101866e81585
+260	495	6462709867828500	C:/Users/mathe/OneDrive/Documentos/2021_EngEletronica/ELF74_Sistemas_Embarcados/TM4C1294_Bare_IAR9-main/Projects/Lab_01/Debug/Obj/system_TM4C1294_TW.o	cb88f7c342968c3b
+4	314	6462711085998170	C:/Users/mathe/OneDrive/Documentos/2021_EngEletronica/ELF74_Sistemas_Embarcados/TM4C1294_Bare_IAR9-main/Projects/Lab_01/Debug/Obj/Laboratorio_01.o	d9a3afd718d9e0d0
+326	467	6462711087563982	C:/Users/mathe/OneDrive/Documentos/2021_EngEletronica/ELF74_Sistemas_Embarcados/TM4C1294_Bare_IAR9-main/Projects/Lab_01/Debug/Exe/Lab_01.out	91cd99dfde0711df
+4	651	6462717788106179	C:/Users/mathe/OneDrive/Documentos/2021_EngEletronica/ELF74_Sistemas_Embarcados/TM4C1294_Bare_IAR9-main/Projects/Lab_01/Debug/Obj/Laboratorio_01.o	d9a3afd718d9e0d0
+68	806	6462717790529686	C:/Users/mathe/OneDrive/Documentos/2021_EngEletronica/ELF74_Sistemas_Embarcados/TM4C1294_Bare_IAR9-main/Projects/Lab_01/Debug/Obj/system_TM4C1294_TW.o	cb88f7c342968c3b
+1220	1455	6462717797187508	C:/Users/mathe/OneDrive/Documentos/2021_EngEletronica/ELF74_Sistemas_Embarcados/TM4C1294_Bare_IAR9-main/Projects/Lab_01/Debug/Exe/Lab_01.out	91cd99dfde0711df
+2	99	6462729807944520	C:/Users/mathe/OneDrive/Documentos/2021_EngEletronica/ELF74_Sistemas_Embarcados/ELF74/Projects/Lab_01/Debug/Obj/startup_TM4C1294.o	2cbf29dcb876933
+106	443	6462729811235736	C:/Users/mathe/OneDrive/Documentos/2021_EngEletronica/ELF74_Sistemas_Embarcados/ELF74/Projects/Lab_01/Debug/Obj/Laboratorio_01.o	8ea71cb4b37f1b4a
+25	480	6462729811425200	C:/Users/mathe/OneDrive/Documentos/2021_EngEletronica/ELF74_Sistemas_Embarcados/ELF74/Projects/Lab_01/Debug/Obj/system_TM4C1294_TW.o	c35a9706db86bde9
+496	793	6462729814821616	C:/Users/mathe/OneDrive/Documentos/2021_EngEletronica/ELF74_Sistemas_Embarcados/ELF74/Projects/Lab_01/Debug/Exe/Lab_01.out	264cc49131f851f5
