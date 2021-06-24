@@ -12359,7 +12359,7 @@
     "display": "void main(void)",
     "location": {
       "column": "6",
-      "line": "32",
+      "line": "33",
       "path": "C:\\Users\\mathe\\OneDrive\\Documentos\\2021_EngEletronica\\ELF74_Sistemas_Embarcados\\ELF74\\Projects\\Lab_01\\src\\Laboratorio_01.c"
     },
     "name": "main",
@@ -12367,13 +12367,13 @@
     "scope": null
   },
   {
-    "ID": "c:Laboratorio_01.c@1476@F@main@status",
+    "ID": "c:Laboratorio_01.c@1691@F@main@status",
     "What": "Variable",
     "defdec": "Def",
     "display": "status",
     "location": {
       "column": "8",
-      "line": "41",
+      "line": "42",
       "path": "C:\\Users\\mathe\\OneDrive\\Documentos\\2021_EngEletronica\\ELF74_Sistemas_Embarcados\\ELF74\\Projects\\Lab_01\\src\\Laboratorio_01.c"
     },
     "name": "status",
@@ -12381,13 +12381,13 @@
     "scope": null
   },
   {
-    "ID": "c:Laboratorio_01.c@1496@F@main@count",
+    "ID": "c:Laboratorio_01.c@1711@F@main@count",
     "What": "Variable",
     "defdec": "Def",
     "display": "count",
     "location": {
       "column": "12",
-      "line": "42",
+      "line": "43",
       "path": "C:\\Users\\mathe\\OneDrive\\Documentos\\2021_EngEletronica\\ELF74_Sistemas_Embarcados\\ELF74\\Projects\\Lab_01\\src\\Laboratorio_01.c"
     },
     "name": "count",
